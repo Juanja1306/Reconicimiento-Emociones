@@ -1,2 +1,2 @@
-# Reconocimineto-AnimalesDomesticos-CNN-Explicabilidad
+# Reconocimineto de emociones por rostros
 
